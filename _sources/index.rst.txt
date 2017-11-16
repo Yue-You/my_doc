@@ -10,9 +10,11 @@ Welcome to trial1's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   first.ipynb
-   first.md
 
 
+Indices and tables
+==================
 
-
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
